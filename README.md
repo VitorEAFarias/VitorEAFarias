@@ -8,7 +8,7 @@ Hello I'm Vitor Alves <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gip
 - 🧬 Be better today than yesterday and tomorrow better than today!!!
 
 </br>
-<div align="center">
+<div>
   <a href="https://github.com/VitorEAFarias">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VitorEAFarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api//top-langs/?username=VitorEAFarias&layoult=compact&langs_count=16&theme=dracula"/>
@@ -26,7 +26,6 @@ Hello I'm Vitor Alves <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gip
   <img align="center" alt="Vitor-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Vitor-Codeigniter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
-  <img align="center" alt="Vitor-PhP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Vitor-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Vitor-VisualCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Vitor-SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
