@@ -7,11 +7,11 @@ Hello I'm Vitor Alves <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gip
 - 🤓 I’m currently learning java.
 - 🧬 I want to be better today than yesterday and tomorrow better than today!!!
 
-</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoreafarias&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <img height="200em" src="https://github-readme-stats-gray-rho.vercel.app/api?username=VitorEAFarias&&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-gray-rho.vercel.app/api/top-langs/?username=VitorEAFarias&layout=compact$count_private=true&langs_count=18&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats-gray-rho.vercel.app/api?username=VitorEAFarias&&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-gray-rho.vercel.app/api/top-langs/?username=VitorEAFarias&layout=compact$langs_count=8&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
