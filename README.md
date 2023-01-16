@@ -10,9 +10,9 @@ Hello I'm Vitor Alves <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gip
 </br>
 
 <div align=center>
-  <img height="220em" src="https://github-readme-stats-gray-rho.vercel.app/api?username=VitorEAFarias&&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-gray-rho.vercel.app/api?username=VitorEAFarias&&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img height="220em" src="https://github-readme-stats-gray-rho.vercel.app/api/top-langs/?username=VitorEAFarias&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-gray-rho.vercel.app/api/top-langs/?username=VitorEAFarias&theme=dark&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
