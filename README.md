@@ -6,16 +6,10 @@ Hello I'm Vitor Alves <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gip
 - 👨‍💻 Today I work as a full stack developer with C#(.NET Core and .NET Framework), PhP(Codeigniter), Javascript(Reactjs) and Typescript(Angular). Using the databases MySQL/SQL and Oracle.
 - 🤓 I’m currently learning java.
 - 🧬 I want to be better today than yesterday and tomorrow better than today!!!
+ 
+![Vitor github stats](https://github-readme-stats-gray-rho.vercel.app/api?username=VitorEAFarias&&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-</br>
-<div>
-  <a href="https://github.com/VitorEAFarias/">
-    <img height="135em" src="https://github-readme-stats-gray-rho.vercel.app/api?username=VitorEAFarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true/"/>
-  </a>
-  <a href="https://github.com/VitorEAFarias/">
-    <img height="135em" src="https://github-readme-stats-gray-rho.vercel.app/api/top-langs/?username=VitorEAFarias&layoult=compact&count_private=true&langs_count=8&theme=dark"/>
-  </a>
-</div>
+![Top Langs](https://github-readme-stats-gray-rho.vercel.app/api/top-langs/?username=VitorEAFarias&layout=compact$count_private=true&langs_count=8&theme=dark&include_all_commits=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
