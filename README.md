@@ -4,7 +4,7 @@ Hello I'm Vitor Alves <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gip
 </h1>
 
 - 👨‍💻 Today I work as a full stack developer with C#(.NET Core and .NET Framework), PhP(Codeigniter), Javascript(Reactjs) and Typescript(Angular). Using the databases MySQL/SQL and Oracle.
-- 🤓 I’m currently learning java.
+- 🤓 I’m currently learning C++.
 - 🧬 I want to be better today than yesterday and tomorrow better than today!!!
 
 </br>
